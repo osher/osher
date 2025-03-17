@@ -10,7 +10,11 @@
 
  * Last: I'm a wildcard: S/W Design & Architecture, S/W Dev Hands-On, Leadership, Production, Public Speaking, Tutoring, Teaching, Game-Design, Live Role-Play Games, and more.
 
-
+## Bio gist
+* I'm coding since the late 80s.
+* I'm coding professionally since 1999.
+* I first met agile methodologies at 2005 and loving it ever since.
+* I'm a role-player and a LARPer.
 
 
 <!--
