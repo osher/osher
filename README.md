@@ -2,6 +2,7 @@
 
 ### Technology Consultant by day, Bullshit artist by night.
 (Disclaimer: it's always night somewhere)
+
 No, really. I'm not here to tell you what to do. All I can do is share my thoughts and my humble experience.
 
 ## About me in 3 points
